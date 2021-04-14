@@ -1,4 +1,5 @@
 # Epidemic.Network
+# **Разработка алгоритмов выбора лучших моделей временных рядов и нейронных сетей для прогнозирования случаев COVID-19**<br />
 that algorithm for forecasting covid 19 cases by using ( BATS, TBATS, Holt's linear trend, ARIMA, SIR, and NNAR) Models<br />
 Makarovskikh Tatyana Anatolyevna “Макаровских Татьяна Анатольевна”<br />
 Abotaleb mostafa“Аботалеб Мостафа”<br />
